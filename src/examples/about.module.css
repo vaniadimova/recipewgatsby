@@ -1,0 +1,14 @@
+.page {
+    color: rgb(228, 8, 228)
+}
+.page h1 {
+    color: rgb(14, 14, 122);
+}
+
+.page p {
+    color: rgb(243, 17, 17);
+}
+
+.text {
+    text-transform: uppercase;
+}

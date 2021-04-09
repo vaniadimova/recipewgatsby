@@ -1,0 +1,14 @@
+.page {
+    color: blue
+}
+.page h1 {
+    color: crimson;
+}
+
+.page p {
+    color: rgb(82, 73, 73);
+}
+
+.text {
+    text-transform: capitalize;
+}
