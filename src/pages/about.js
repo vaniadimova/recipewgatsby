@@ -17,15 +17,14 @@ const About = ({
       <main className="page">
         <section className="about-page">
           <article>
-            <h2>I'm  coloring book poke taxidermy</h2>
+            <h2>World's most delicious dishes </h2>
             <p>
-              Taxidermy forage glossier letterpress heirloom before they sold
-              out you probably haven't heard of them banh mi biodiesel chia.
+         
+Delicious meals are tasty, appetizing, scrumptious, yummy, 
+luscious, delectable, mouth-watering, fit for a king, delightful, 
+lovely, wonderful, pleasant, enjoyable, appealing, enchanting, charming.
             </p>
-            <p>
-              Taiyaki tumblr flexitarian jean shorts brunch, aesthetic salvia
-              retro.
-            </p>
+           
             <Link to="/contact" className="btn">
               contact
             </Link>

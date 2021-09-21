@@ -12,10 +12,10 @@ const Contact = ({ data }) => {
           <main className="page">
               <section className="contact-page">
               <article className="contact-info">
-            <h3>Want To Get In Touch?</h3>
+            <h3>Have a Question? Get In Touch 😁</h3>
+            <h4>Reason to reach out</h4>
             <p>
-              Four dollar toast biodiesel plaid salvia actually pickled banjo
-              bespoke mlkshk intelligentsia edison bulb synth.
+           We Share Food Lovers Recipes from around the world!
             </p>
             <p>Cardigan prism bicycle rights put a bird on it deep v.</p>
             <p>
